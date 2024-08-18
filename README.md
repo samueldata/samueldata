@@ -1,6 +1,3 @@
-I'm Samuel,
-Developer and ServiceNow consultant. Explore my projects and connect!
-
 # Samuel Silva
 
 **Developer and ServiceNow Consultant**
