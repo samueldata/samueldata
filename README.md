@@ -6,7 +6,7 @@ Explore my projects and connect!
 
 ## Stats
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samueldata&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=samueldata&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ## Most Used Languages
 
@@ -16,9 +16,6 @@ Explore my projects and connect!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samueldata&hide_border=true&theme=radical)
 
-## Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=samueldata&theme=radical&hide_border=true)
 
 ## Contact
 
