@@ -34,10 +34,6 @@ Developer and ServiceNow Consultant
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=samueldata&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
 
-## GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samueldata&hide_border=true&theme=radical)
-
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/samuells/)
