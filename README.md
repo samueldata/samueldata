@@ -1,8 +1,12 @@
-# Hi, I'm Samuel Silva 👋
+👋 Hi, I'm Samuel Silva  
+Developer and ServiceNow Consultant  
 
-**Developer and ServiceNow Consultant**
+🔧 **Main Technologies:**  
+- **Python**: Web applications and predictive maintenance systems.  
+- **Julia**: Data science and statistical analysis.  
+- **JavaScript**: Fullstack development and algorithms.  
 
-Explore my projects and connect!
+🌐 **ServiceNow**: Specialized in implementing and customizing the ServiceNow platform, with a focus on service operations and customer experience.  
 
 ## Technologies and Tools
 
@@ -33,7 +37,6 @@ Explore my projects and connect!
 ## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samueldata&hide_border=true&theme=radical)
-
 
 ## Contact
 
