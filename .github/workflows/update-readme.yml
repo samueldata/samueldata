@@ -1,0 +1,26 @@
+name: Update README daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight (UTC)
+  workflow_dispatch:     # Allows manual execution as well
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+
+      - name: Update README with timestamp
+        run: |
+          ts=$(date +%Y%m%d%H%M)
+          sed -i "s|\(timestamp=\)[0-9]*|\1$ts|" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update README timestamp: $ts" || echo "Nothing to update"
+          git push
