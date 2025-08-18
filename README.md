@@ -28,11 +28,11 @@ Developer and ServiceNow Consultant
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldata&layout=compact&hide_border=true&theme=radical&timestamp=202508170049)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldata&layout=compact&hide_border=true&theme=radical&timestamp=202508180048)
 
 ## Stats
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=samueldata&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&timestamp=202508170049)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=samueldata&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&timestamp=202508180048)
 
 ## Contact
 
